@@ -2,4 +2,4 @@
 
 I am testing git integration with RStudio.
 
-Some cool changes.
+Some cool changes. I wrote this on GitHub.
