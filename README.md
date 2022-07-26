@@ -2,4 +2,4 @@
 
 I am testing git integration with RStudio.
 
-Some cool changes. I wrote this in Domino.
+Some cool changes. I wrote this in Domino. Some cool changes. I wrote this on GitHub.
